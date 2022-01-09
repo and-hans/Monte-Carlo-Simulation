@@ -63,5 +63,3 @@ def percentDifference():
 
         differenceList.append(round(total, 2))
     return differenceList
-
-
